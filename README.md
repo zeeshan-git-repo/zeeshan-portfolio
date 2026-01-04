@@ -1,6 +1,6 @@
 # Software Developer Portfolio
 
-A modern, responsive portfolio website built with Vue.js 3, TypeScript, and Tailwind CSS. This portfolio showcases 5+ years of professional experience in full-stack development, specializing in Java, Spring Boot, Vue.js, and cloud technologies.
+A modern, responsive portfolio website built with Vue.js 3, TypeScript, and Tailwind CSS. This portfolio showcases 6+ years of professional experience in full-stack development, specializing in Java, Spring Boot, Vue.js, and cloud technologies.
 
 ## 🚀 Features
 
