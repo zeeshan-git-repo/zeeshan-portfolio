@@ -132,7 +132,7 @@ Update the following files with your personal information:
 
 ## 🌟 Key Highlights
 
-- **5+ Years Experience** in software development
+- **6+ Years Experience** in software development
 - **Full-Stack Expertise** in Java, Spring Boot, Vue.js
 - **Cloud Technologies** including AWS and Docker
 - **Microservices Architecture** design and implementation
@@ -164,9 +164,9 @@ Feel free to fork this project and customize it for your own portfolio. If you h
 
 ## 📞 Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: azeeshan867@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/zeeshan-ahmad-0637b8188/
+- **GitHub**: https://github.com/zeeshan-git-repo/
 
 ---
 
