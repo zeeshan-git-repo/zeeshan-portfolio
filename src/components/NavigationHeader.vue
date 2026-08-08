@@ -17,7 +17,7 @@
                @click="scrollTo(item.href)">
               {{ item.name }}
             </a>
-            <a href="/Zeeshan Java Developer Resume.pdf" download="Zeeshan Java Developer Resume.pdf" class="btn-primary text-xs px-4 py-2">
+            <a href="/Zeeshan_Java_FullStack_GenAI_Resume.pdf" download="Zeeshan_Java_FullStack_GenAI_Resume.pdf" class="btn-primary text-xs px-4 py-2">
               <i class="fas fa-download mr-1"></i>
               Resume
             </a>
@@ -48,7 +48,7 @@
              @click="scrollTo(item.href); mobileMenuOpen = false">
             {{ item.name }}
           </a>
-          <a href="/Zeeshan Java Developer Resume.pdf" download="Zeeshan Java Developer Resume.pdf" 
+          <a href="/Zeeshan_Java_FullStack_GenAI_Resume.pdf" download="Zeeshan_Java_FullStack_GenAI_Resume.pdf"
              class="block px-3 py-2 text-base font-medium text-primary-600 dark:text-primary-400 border-t border-dark-200 dark:border-dark-700"
              @click="mobileMenuOpen = false">
             <i class="fas fa-download mr-2"></i>

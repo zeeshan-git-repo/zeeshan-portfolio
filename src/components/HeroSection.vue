@@ -26,7 +26,7 @@
 
         <!-- CTA Buttons -->
         <div class="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
-          <a href="/Zeeshan Java Developer Resume.pdf" download="Zeeshan Java Developer Resume.pdf" class="btn-primary">
+          <a href="/Zeeshan_Java_FullStack_GenAI_Resume.pdf" download="Zeeshan_Java_FullStack_GenAI_Resume.pdf" class="btn-primary">
             <i class="fas fa-download mr-2"></i>
             Download Resume
           </a>

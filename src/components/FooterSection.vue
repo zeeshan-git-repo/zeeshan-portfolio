@@ -79,7 +79,7 @@
 
           <!-- Resume Download -->
           <div class="mt-6">
-            <a href="/Zeeshan Java Developer Resume.pdf" download="Zeeshan Java Developer Resume.pdf" class="inline-flex items-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl">
+            <a href="/Zeeshan_Java_FullStack_GenAI_Resume.pdf" download="Zeeshan_Java_FullStack_GenAI_Resume.pdf" class="inline-flex items-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white font-medium rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl">
               <i class="fas fa-download mr-2"></i>
               Download Resume
             </a>
