@@ -154,9 +154,7 @@ The portfolio is fully responsive and optimized for:
 - Safari (latest)
 - Edge (latest)
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
+## 📝 License: 404
 
 ## 🤝 Contributing
 
