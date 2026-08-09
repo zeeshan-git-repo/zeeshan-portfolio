@@ -70,16 +70,12 @@
         <div class="space-y-6">
           <div class="grid grid-cols-2 gap-6">
             <div class="card p-6 text-center">
-              <div class="text-3xl font-bold text-primary-600 mb-2">5+</div>
+              <div class="text-3xl font-bold text-primary-600 mb-2">6+</div>
               <div class="text-dark-600 dark:text-dark-300">Years Experience</div>
             </div>            
             <div class="card p-6 text-center">
               <div class="text-3xl font-bold text-primary-600 mb-2">15+</div>
               <div class="text-dark-600 dark:text-dark-300">Technologies</div>
-            </div>
-            <div class="card p-6 text-center">
-              <div class="text-3xl font-bold text-primary-600 mb-2">10+</div>
-              <div class="text-dark-600 dark:text-dark-300">Certifications</div>
             </div>
             <div class="card p-6 text-center">
               <div class="text-3xl font-bold text-primary-600 mb-2">10+</div>
