@@ -17,7 +17,7 @@
             Hi, I'm <span class="gradient-text">Zeeshan Ahmad</span>
           </h1>
           <p class="text-xl md:text-2xl text-dark-600 dark:text-dark-300 mb-6 max-w-3xl mx-auto">
-            Passionate Full-Stack Developer with 6+ years of experience in Java, Spring Boot, Vue.js, and Cloud Technologies
+            Passionate Full-Stack Developer with 7+ years of experience in Java, Spring Boot, Vue.js, and Cloud Technologies
           </p>
           <p class="text-lg text-dark-500 dark:text-dark-400 mb-8">
             BTech CSE Graduate from MANUU Hyderabad | Software Dev Staff Engineer at Quest Software
