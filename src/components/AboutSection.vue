@@ -19,7 +19,7 @@
               Background
             </h3>
             <p class="text-dark-600 dark:text-dark-300 leading-relaxed mb-4">
-              I'm Zeeshan Ahmad, a dedicated software developer with <strong>6+ years</strong> of professional experience
+              I'm Zeeshan Ahmad, a dedicated software developer with <strong>7+ years</strong> of professional experience
               in building scalable web applications and data intelligence solutions. I hold a <strong>BTech in Computer Science Engineering</strong> 
               from <strong>Maulana Azad National Urdu University, Hyderabad (2019)</strong> and have a passion for creating efficient, maintainable code.
             </p>
@@ -70,7 +70,7 @@
         <div class="space-y-6">
           <div class="grid grid-cols-2 gap-6">
             <div class="card p-6 text-center">
-              <div class="text-3xl font-bold text-primary-600 mb-2">6+</div>
+              <div class="text-3xl font-bold text-primary-600 mb-2">7+</div>
               <div class="text-dark-600 dark:text-dark-300">Years Experience</div>
             </div>            
             <div class="card p-6 text-center">
